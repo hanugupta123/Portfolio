@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.0ccfa403.css",
+    "main.js": "/Portfolio/static/js/main.82290616.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/menufinderimg.png": "/Portfolio/static/media/menufinderimg.0fd4ef1370adaf051036.png",
+    "static/media/pic.png": "/Portfolio/static/media/pic.bfbcf9194d127d47f27b.png",
+    "static/media/webdesignimg.png": "/Portfolio/static/media/webdesignimg.08acfeb22b104cd9ab24.png",
+    "static/media/videoplayerimg.png": "/Portfolio/static/media/videoplayerimg.503c86909f3fb1067f1e.png",
+    "static/media/calculatorimg.png": "/Portfolio/static/media/calculatorimg.96941cb093b5687cf51f.png",
+    "static/media/SOC logo.jpg": "/Portfolio/static/media/SOC logo.4a8721d18140034ce181.jpg",
+    "static/media/moviebookingimg.png": "/Portfolio/static/media/moviebookingimg.6637e760875a8cb0d8b0.png",
+    "static/media/gameimg.png": "/Portfolio/static/media/gameimg.362c82e3fe6877b58333.png",
+    "static/media/TechSoc_logo.png": "/Portfolio/static/media/TechSoc_logo.45a0bcb306052d0c3756.png",
+    "static/media/IITM logo.webp": "/Portfolio/static/media/IITM logo.5618ee3407585cf009d9.webp",
+    "index.html": "/Portfolio/index.html",
+    "main.0ccfa403.css.map": "/Portfolio/static/css/main.0ccfa403.css.map",
+    "main.82290616.js.map": "/Portfolio/static/js/main.82290616.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ccfa403.css",
+    "static/js/main.82290616.js"
+  ]
+}
