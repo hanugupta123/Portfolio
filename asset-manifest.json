@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.855bad49.css",
+    "main.css": "/Portfolio/static/css/main.a05c81cc.css",
     "main.js": "/Portfolio/static/js/main.94988e00.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/menufinderimg.png": "/Portfolio/static/media/menufinderimg.0fd4ef1370adaf051036.png",
@@ -14,12 +14,12 @@
     "static/media/TechSoc_logo.png": "/Portfolio/static/media/TechSoc_logo.45a0bcb306052d0c3756.png",
     "static/media/IITM logo.webp": "/Portfolio/static/media/IITM logo.5618ee3407585cf009d9.webp",
     "index.html": "/Portfolio/index.html",
-    "main.855bad49.css.map": "/Portfolio/static/css/main.855bad49.css.map",
+    "main.a05c81cc.css.map": "/Portfolio/static/css/main.a05c81cc.css.map",
     "main.94988e00.js.map": "/Portfolio/static/js/main.94988e00.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.855bad49.css",
+    "static/css/main.a05c81cc.css",
     "static/js/main.94988e00.js"
   ]
 }
