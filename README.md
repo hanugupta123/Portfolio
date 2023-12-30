@@ -1,4 +1,3 @@
-#Portfolio website
 • Developed a dynamic and visually appealing personal portfolio website to showcase my skills , projects , and achievements 
 
 • Integrated contact information and social media accounts links to enable easy communication with visitors and networking. 
